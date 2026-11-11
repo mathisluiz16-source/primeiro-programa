@@ -1,2 +1,3 @@
 # primeiro-programa
-meu programa em python
+game que fiz no python so de zuera
+
